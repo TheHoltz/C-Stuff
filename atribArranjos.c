@@ -1,6 +1,4 @@
 //este arquivo contém um exemplo de atribuição de arranjos como estruturas
-//além de um exemplo de ponteiro para função
-
 
 #include <stdio.h>
 #include <stdlib.h>
